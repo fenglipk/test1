@@ -18,7 +18,7 @@
 
 **[在线预览 &rarr;](https://mazhuang.org)**
 
-![screenshot home](https://mazhuang.org/assets/images/screenshots/home.png)
+![screenshot home](./images/wiki/jump-from-class-to-layout.jpg)
 
 ## Fork 指南
 
